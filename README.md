@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">This is a list of some <b>Open Source organizations</b> which participated in <b>GSoC</b> and having <b>Web</b> specially for <br> <b>React</b>, <b>HTML, CSS and JavaScript</b> developers📝<p>
+<p align="center">This is a list of some <b>Open Source organizations</b> which participated in <b>GSoC</b> and having <b>Web</b> based projects specially for <br> <b>React</b>, <b>HTML, CSS and JavaScript</b> developers📝<p>
 
 ## 1. Processing Foundation
 
