@@ -2,7 +2,7 @@
 
 <br>
 
-<p align="center">This is a list of some <b>Open Source organizations</b> which participated in <b>GSoC</b> and having <b>Web</b> based projects specially for <br> <b>React</b>, <b>HTML, CSS and JavaScript</b> developers📝<p>
+<p align="center">This is a list of some <b>Open Source organizations</b> participating in <b>GSoC</b> and having <b>Web</b> based projects specially for <br> <b>React</b>, <b>HTML, CSS and JavaScript</b> developers📝<p>
 
 ## 1. Processing Foundation
 
@@ -16,7 +16,7 @@
 
 - p5.js Showcase Every year (**HTML, CSS, JavaScript**)
   <br>
-  GitHub Repo [here](https://github.com/connieliu0/p5.js-showcase)
+  GitHub Repo for 2020 [here](https://github.com/connieliu0/p5.js-showcase)
 
 - p5.js (**JavaScript**)
   <br>
@@ -36,58 +36,93 @@
   <br>
   More Info [here](https://issues.apache.org/jira/browse/APISIX-12)
 
-## 3. Owasp
+## 3. Wikimedia Foundation
 
-- Offensive Web Testing Framework-OWTF (**React**)
+- Update the front-page of Wikimedia projects (**HTML, CSS, Javascript, Node.js**)
   <br>
-  GitHub Repo [here](https://github.com/owtf/owtf)
+  GitHub Repo [here](https://github.com/wikimedia/portals/tree/master/docs)
+  More info [here](https://phabricator.wikimedia.org/T273179)
 
-- OWASP Bug Logging Tool (**React**)
+- Write MediaWiki userscript tutorial (**HTML, CSS, JavaScript, and jQuery**)
   <br>
-  GitHub Repo [here](https://github.com/OWASP/BLT)
+  More info [here](https://phabricator.wikimedia.org/T274635)
 
-## 4. GDevelop
-
-- Revamp shortcuts/"Goto Anything" in the editor (**React.js for the editor, JavaScript**)
-- Improved Debugger and Profiler (**React**)
-- Support opening multiple projects or multiple instances of the editor (**JavaScript, React, Electron**)
+- Add zooming and panning to the Wikisource Pagelist Widget (**JavaScript, PHP**)
   <br>
-  More info [here](http://wiki.compilgames.net/doku.php/gdevelop5/community/summer-of-code)
+  More info [here](https://phabricator.wikimedia.org/T262146)
 
-## 5. Performance Co-Pilot
+## 4. Rocket.chat
 
-- Grafana Plugin (**React, TypeScript**)
-  <br>
-  GitHub Repo [here](https://github.com/performancecopilot/grafana-pcp)
-
-## 6. Rocket.chat
-
-- Various number of Projects (**React, JavaScript, CSS**)
+- Around 20 Projects based on (**React, JavaScript, CSS**)
   <br>
   GitHub Repo(s) [here](https://github.com/RocketChat/Rocket.Chat)
   <br>
-  More info (2020) [here](https://docs.rocket.chat/contributors/gsoc/google-summer-of-code-2020#project-ideas)
+  More info (2021) [here](https://docs.rocket.chat/contributors/gsoc/google-summer-of-code-2021#project-ideas)
 
-## 7. CNCF
+## 5. Salesforce
 
-- Thanos UI Project (**React**)
+- Design System (**React**)
   <br>
-  GitHub Repo [here](https://github.com/thanos-io/thanos)
+  GitHub Repo [here](https://github.com/salesforce/design-system-react)
 
-## 8. Purr Data `
-
-- Skills: (**Javascript, HTML, CSS**)
-  GitLab Repo [here](https://git.purrdata.net/jwilkes/purr-data)
+- Cloudsplaining (**React/Vue/Svetle, AWS**)
   <br>
-  More info [here](https://git.purrdata.net/jwilkes/summer-of-code-ideas-list#core-accessibility)
+  GitHub repo [here](https://github.com/salesforce/cloudsplaining)
+  More info [here](https://github.com/salesforce/gsoc#cloudsplaining--salesforcecloudsplaining)
 
-## 9. SambaWiki
+## 6. EOS Design (Python)
 
-- Samba AD deployment with Cockpit (**Python, React, CSS, HTML**)
+- EOS icons react library (**React, CI, YAML**)
   <br>
-  GitHub Repo(s) [here](https://github.com/cockpit-project)
+  More info [here](https://gitlab.com/SUSE-UIUX/eos/-/wikis/GSoC-2021-Sub-org-at-Python.org:-EOS#project-1)
+
+- EOS-icons - Improvements (**React, SCSS**)
   <br>
-  More info [here](https://wiki.samba.org/index.php/SoC/Ideas#Google_Summer_of_Code:_Suggested_Project_ideas)
+  More info [here](https://gitlab.com/SUSE-UIUX/eos/-/wikis/GSoC-2021-Sub-org-at-Python.org:-EOS#project-2)
+
+- EOS-icons - extensions for third party applications (**Python, React.js, SCSS**)
+  <br>
+  More info [here](https://gitlab.com/SUSE-UIUX/eos/-/wikis/GSoC-2021-Sub-org-at-Python.org:-EOS#project-3)
+
+- User Story - Improvements and new features (**React.js, Node.js, SCSS, MongoDB, GraphQL**)
+  <br>
+  More info [here](https://gitlab.com/SUSE-UIUX/eos/-/wikis/GSoC-2021-Sub-org-at-Python.org:-EOS#project-4)
+
+- EOS icons API (**Node.js, MongoDB, Redis, Docker, Gitlab Hooks**)
+  <br>
+  More info [here](https://gitlab.com/SUSE-UIUX/eos/-/wikis/GSoC-2021-Sub-org-at-Python.org:-EOS#project-5)
+
+## 7. JdeRobot
+
+- Improving VisualStates (**Python and C++, HTML, JavaScript/Node.js**)
+  <br>
+  More info [here](https://jderobot.github.io/activities/gsoc/2021#project-5-improving-visualstates-tool-with-ros2-support-and-web-based-gui)
+
+## 8. Anita B.org
+
+- Open Source Programs (**FrontEnd: HTML, CSS, JavaScript || Backend: Django, Python**)
+  <br>
+  GitHub Repo [here](https://github.com/anitab-org/open-source-programs-web)
+  <br>
+  More info [here](https://github.com/anitab-org/anitab-org.github.io/wiki/Open-Source-Programs)
+
+- Bridge in Tech (**FrontEnd: HTML, CSS, JavaScript, React || Backend: Python**)
+  <br>
+  More info [here](https://github.com/anitab-org/anitab-org.github.io/wiki/Bridge-In-Tech)
+
+## 9. Elastic
+
+- Accessible combobox variants (**React, TypeScript**)
+  <br>
+  More info [here](https://github.com/elastic/gsoc#project-1-accessible-combobox-variants)
+
+- Alluvial diagram in @elastic/charts (**SVG, Canvas2D or WebGL, JavaScript ideally(TypeScript), React, D3**)
+  <br>
+  More info [here](https://github.com/elastic/gsoc#project-2-alluvial-diagram-in-elasticcharts)
+
+- Parallel coordinates in @elastic/charts (**SVG, Canvas2D or WebGL, JavaScript ideally(TypeScript), React, D3**)
+  <br>
+  More info [here](https://github.com/elastic/gsoc#project-3-data-sonification)
 
 ## 10. Matrix
 
@@ -128,13 +163,25 @@
   <br>
   GitHub Repo [here](https://github.com/HTTP-APIs/hydra-python-agent)
 
-## 14. Elastic
+## 14. Moira
 
-- Multi-Project Testing Suite (**React**)
+- RESTify Moira’s API (**REST, JSON API, Go**)
   <br>
-  GitHub Repo [here](https://github.com/elastic/eui)
+  More info [here](https://moira.readthedocs.io/en/latest/gsoc.html#restify-moira-s-api)
+
+- Complete Moira’s mobile web version (**JavaScript, TypeScript and React**)
   <br>
-  More info [here](https://github.com/elastic/gsoc#project-3-multi-project-testing-suite)
+  GitHub repo [here](https://github.com/moira-alert/web2.0)
+  <br>
+  More info [here](https://moira.readthedocs.io/en/latest/gsoc.html#complete-moira-s-mobile-web-version)
+
+- Noisy trigger analysis tools (**Basic Go and JavaScript skills**)
+  <br>
+  More info [here](https://moira.readthedocs.io/en/latest/gsoc.html#noisy-trigger-analysis-tools)
+
+- Health checks for delivery channels and contacts (**Go, JavaScript, React**)
+  <br>
+  More info [here](https://moira.readthedocs.io/en/latest/gsoc.html#health-checks-for-delivery-channels-and-contacts)
 
 ## 15. Mozilla
 
@@ -157,11 +204,17 @@
   <br>
   More info [here](https://www.fossi-foundation.org/gsoc20-ideas.html)
 
-## 18. GraphQL Plugins
+## 18. GDevelop
+
+- Revamp shortcuts/"Goto Anything" in the editor (**React.js for the editor, JavaScript**)
+- Improved Debugger and Profiler (**React**)
+- Support opening multiple projects or multiple instances of the editor (**JavaScript, React, Electron**)
+  <br>
+  More info [here](http://wiki.compilgames.net/doku.php/gdevelop5/community/summer-of-code)
 
 ## 19. Internet Archive
 
-- Chrome extension Wayback Machine
+- Chrome extension Wayback Machine (**JavaScript, UX**)
 - BookReader (**HTML, CSS, JavaScript**)
   <br>
   GitHub Repo [here](https://github.com/internetarchive/bookreader)
@@ -169,6 +222,10 @@
 - Front-End Web Components (**HTML, CSS, JavaScript**)
   <br>
   GitHub Repo [here](https://github.com/internetarchive/iaux)
+
+- Google Assistant Action (**Node.js**)
+  <br>
+  More info [here](More info [here](https://docs.google.com/document/d/1posF4zhq2lAz7eikloT9_K4LnHXfJ5VWGpCtJS6rJ0M/))
 
 ## 20. GPAC
 
@@ -222,11 +279,11 @@
   <br>
   More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2020.md#sugarizer-game-activity-pack)
 
-## 26. Salesforce
+## 26. Performance Co-Pilot
 
-- Design System (**React**)
+- Grafana Plugin (**React, TypeScript**)
   <br>
-  GitHub Repo [here](https://github.com/salesforce/design-system-react)
+  GitHub Repo [here](https://github.com/performancecopilot/grafana-pcp)
 
 ## 27. Submitty
 
@@ -310,13 +367,12 @@
 
 - Data Explorer UI (**React, JavaScript**)
 
-## 39. Anita B.org
+## 39. Purr Data `
 
-- Open Source Programs (**HTML, CSS, JavaScript**)
+- Skills: (**Javascript, HTML, CSS**)
+  GitLab Repo [here](https://git.purrdata.net/jwilkes/purr-data)
   <br>
-  GitHub Repo [here](https://github.com/anitab-org/open-source-programs-web)
-
-- Syters Portal (**Python, JavaScript**)
+  More info [here](https://git.purrdata.net/jwilkes/summer-of-code-ideas-list#core-accessibility)
 
 ## 40. Fossasia
 
@@ -329,3 +385,35 @@
   GitHub Repo [here](https://github.com/yacy)
   <br>
   More info [here](https://fossasia.org/labs/)
+
+## 41. Owasp
+
+- Offensive Web Testing Framework-OWTF (**React**)
+  <br>
+  GitHub Repo [here](https://github.com/owtf/owtf)
+
+- OWASP Bug Logging Tool (**React**)
+  <br>
+  GitHub Repo [here](https://github.com/OWASP/BLT)
+
+## 42. SambaWiki
+
+- Samba AD deployment with Cockpit (**Python, React, CSS, HTML**)
+  <br>
+  GitHub Repo(s) [here](https://github.com/cockpit-project)
+  <br>
+  More info [here](https://wiki.samba.org/index.php/SoC/Ideas#Google_Summer_of_Code:_Suggested_Project_ideas)
+
+## 43. GraphQL Plugins
+
+## 44. Postman
+
+- Newman, Collection SDK, Code Generators, Importers (**JavaScript, Node.js**)
+  <br>
+  More info [here](https://github.com/postmanlabs/gsoc/blob/master/2020/IDEAS.md)
+
+## 45. CNCF
+
+- Thanos UI Project (**React**)
+  <br>
+  GitHub Repo [here](https://github.com/thanos-io/thanos)
