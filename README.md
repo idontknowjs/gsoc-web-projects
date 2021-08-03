@@ -14,9 +14,9 @@
   <br>
   GitHub Repo [here](https://github.com/processing/p5.js-website)
 
-- p5.js Showcase Every year (**HTML, CSS, JavaScript**)
+- p5.js Showcase (**HTML, CSS, JavaScript**)
   <br>
-  GitHub Repo for 2020 [here](https://github.com/connieliu0/p5.js-showcase)
+  GitHub Repo for 2020 showcase [here](https://github.com/connieliu0/p5.js-showcase)
 
 - p5.js (**JavaScript**)
   <br>
@@ -35,6 +35,8 @@
   GitHub Repo [here](https://github.com/apache/apisix-dashboard)
   <br>
   More Info [here](https://issues.apache.org/jira/browse/APISIX-12)
+
+More projects under Apache Foundation, info [here](https://cwiki.apache.org/confluence/display/COMDEV/GSoC+2021+Ideas+list)
 
 ## 3. Wikimedia Foundation
 
@@ -59,16 +61,29 @@
   <br>
   More info (2021) [here](https://docs.rocket.chat/contributors/gsoc/google-summer-of-code-2021#project-ideas)
 
-## 5. Salesforce
+## 5. Score Labs
 
-- Design System (**React**)
+- Webiu (**Javascript, React, GatsbyJS**)
   <br>
-  GitHub Repo [here](https://github.com/salesforce/design-system-react)
+  GitHub Repo [here](https://github.com/scorelab/Webiu)
 
-- Cloudsplaining (**React/Vue/Svetle, AWS**)
+- Implement Community App Using Go Social Framework (**NodeJS, React, ReactNative**)
   <br>
-  GitHub repo [here](https://github.com/salesforce/cloudsplaining)
-  More info [here](https://github.com/salesforce/gsoc#cloudsplaining--salesforcecloudsplaining)
+  GitHub Repo [here](https://github.com/scorelab/Go-social)
+
+- Improve LabelLab web application (**React, Flask, PostgreSQL, Docker**)
+  <br>
+  GitHub Repo [here](https://github.com/scorelab/LabelLab)
+
+- Design 5 new Themes for Webiu (**Javascript, React, Gatsby**)
+  <br>
+  GitHub Repo [here](https://github.com/scorelab/Webiu)
+
+- CodeLabz - FrontEnd Improvemnts (**React, JavaScript**)
+  <br>
+  GitHub Repo [here](https://github.com/scorelab/Codelabz)
+
+More Score Labs projects [here](https://scorelab.org/gsoc/)
 
 ## 6. EOS Design (Python)
 
@@ -116,11 +131,11 @@
   <br>
   More info [here](https://github.com/elastic/gsoc#project-1-accessible-combobox-variants)
 
-- Alluvial diagram in @elastic/charts (**SVG, Canvas2D or WebGL, JavaScript ideally(TypeScript), React, D3**)
+- Alluvial diagram in @elastic/charts (**SVG, Canvas2D or WebGL, JavaScript/TypeScript, React, D3**)
   <br>
   More info [here](https://github.com/elastic/gsoc#project-2-alluvial-diagram-in-elasticcharts)
 
-- Parallel coordinates in @elastic/charts (**SVG, Canvas2D or WebGL, JavaScript ideally(TypeScript), React, D3**)
+- Parallel coordinates in @elastic/charts (**SVG, Canvas2D or WebGL, JavaScript/TypeScript, React, D3**)
   <br>
   More info [here](https://github.com/elastic/gsoc#project-3-data-sonification)
 
@@ -142,20 +157,37 @@
 
 ## 12. Joplin
 
-- Support for multiple profiles (**JavaScript, React, React Native**)
+- OCR plugin (**JavaScript, Image processing**)
   <br>
-  GitHub Repo [here](https://github.com/laurent22/joplin/)
-  <br>
-  More info [here](https://joplinapp.org/gsoc2020/ideas/#1-support-for-multiple-profiles)
+  Info [here](hhttps://joplinapp.org/gsoc2021/ideas/#1-ocr-plugin)
 
-- Collaboration via Nextcloud (**JavaScript, React, React Native**)
+- Template plugin (**JavaScript**)
   <br>
-  GitHub Repo [here](https://github.com/laurent22/joplin-nextcloud/)
-  <br>
-  More info [here](https://joplinapp.org/gsoc2020/ideas/#2-collaboration-via-nextcloud)
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#2-template-plugin)
 
-- Custom keyboard shortcuts
-  More info [here](https://joplinapp.org/gsoc2020/ideas/#10-custom-keyboard-shortcuts)
+- BibTex plugin (**JavaScript**)
+  <br>
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#3-bibtex-plugin)
+
+- Real time collaboration on a note (**JavaScript**)
+  <br>
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#4-real-time-collaboration-on-a-note)
+
+- Paste special (**JavaScript, HTML**)
+  <br>
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#5-paste-special)
+
+- Plugin system on mobile (**JavaScript, React Native**)
+  <br>
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#6-plugin-system-on-mobile)
+
+- Conflict resolution editor plugin (**JavaScript, Markdown**)
+  <br>
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#7-conflict-resolution-editor-plugin)
+
+- Kanban plugin (**JavaScript**)
+  <br>
+  Info [here](https://joplinapp.org/gsoc2021/ideas/#8-kanban-plugin)
 
 ## 13. Hydra Ecosystem
 
@@ -267,17 +299,17 @@
 
 ## 25. SugarLabs
 
-- Music Blocks (**JavaScript**)
+- Sugarizer Measure activity (**JavaScript, HTML5, Vue**)
   <br>
-  More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2020.md#export-music-blocks-code-to-javascript)
+  More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2021.md#sugarizer-measure-activity)
 
-- Sugar app store (**HTML, JavaScript, Python**)
+- Sugarizer Story activity (**JavaScript, HTML5, Vue**)
   <br>
-  More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2020.md#sugar-app-store-for-python-3-activities-aslov4)
+  More info [here](hhttps://github.com/sugarlabs/GSoC/blob/master/Ideas-2021.md#sugarizer-story-activity)
 
-- Sugarizer Game activity pack (**JavaScript, HTML5, Vue**)
+- Sugarizer Story activity (**JavaScript, HTML5, Vue**)
   <br>
-  More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2020.md#sugarizer-game-activity-pack)
+  More info [here](https://github.com/sugarlabs/GSoC/blob/master/Ideas-2021.md#sugarizer-security-and-availability)
 
 ## 26. Performance Co-Pilot
 
@@ -314,6 +346,7 @@
 ## 31. OpenMRS
 
 - OpenMRS projects (**HTML, CSS, JavaScript**)
+  <br>
   GitHub Repo [here](https://github.com/openmrs/openmrs-owa-sysadmin)
 
 ## 32. Webpack
@@ -345,7 +378,7 @@
 - 3Dmol.js (**JavaScript, OpenGL/WebGL**
 - JavaScript version of Open Babel (**C++, JavaScript**)
   <br>
-  More info [here](https://wiki.openchemistry.org/GSoC_Ideas_2020)
+  More info [here](https://wiki.openchemistry.org/GSoC_Ideas_2021)
 
 ## 36. Open EMR
 
@@ -367,7 +400,7 @@
 
 - Data Explorer UI (**React, JavaScript**)
 
-## 39. Purr Data `
+## 39. Purr Data
 
 - Skills: (**Javascript, HTML, CSS**)
   GitLab Repo [here](https://git.purrdata.net/jwilkes/purr-data)
@@ -410,10 +443,73 @@
 
 - Newman, Collection SDK, Code Generators, Importers (**JavaScript, Node.js**)
   <br>
-  More info [here](https://github.com/postmanlabs/gsoc/blob/master/2020/IDEAS.md)
+  More info of all 13 projects [here](https://github.com/postmanlabs/gsoc/blob/master/2021/Ideas.md)
 
 ## 45. CNCF
 
 - Thanos UI Project (**React**)
   <br>
   GitHub Repo [here](https://github.com/thanos-io/thanos)
+
+## 46. GNOME Foundation
+
+- Faces of GNOME (**Jekyll, JavaScript, HTML, CSS**)
+  <br>
+  GitLab Repo [here](https://gitlab.gnome.org/Teams/Engagement/websites/people-of-gnome)
+
+- GNOME Websites Framework (**CSS/SCSS, JavaScript**)
+  <br>
+  GitLab Repo [here](https://gitlab.gnome.org/Teams/Engagement/websites/gnome-websites-framework)
+
+## 47. Chromium
+
+- Roadmap view for chromestatus.com (**Python, JS, HTML, UI design**)
+  <br>
+  GitHub Repo [here](https://github.com/GoogleChrome/chromium-dashboard)
+
+- Automating Puppeteer's documentation from code (**JavaScript/TypeScript**)
+  <br>
+  GitHub Repo [here](https://github.com/puppeteer/puppeteer)
+  More info [here](https://docs.google.com/document/d/1x2ELJVSEUmiIzElcVGy5ScWoi4qRfgu2Hf1JAEYxrUg/edit#heading=h.56j543g6pzyg)
+
+- Snooze, search and filter for the Chrome DevTools Issues Tab (**JavaScript/TypeScript**)
+  <br>
+  GitHub Repo [here](https://github.com/ChromeDevTools/devtools-frontend)
+
+- Sample Diagnostics App/Extension for Chrome OS (**HTML, CSS, Javascript**)
+  <br>
+  GitHub Repo [here](https://github.com/MahmoudAGawad/cros-diag-app)
+
+## 48. Salesforce
+
+- Design System (**React**)
+  <br>
+  GitHub Repo [here](https://github.com/salesforce/design-system-react)
+
+- Cloudsplaining (**React/Vue/Svetle, AWS**)
+  <br>
+  GitHub repo [here](https://github.com/salesforce/cloudsplaining)
+  <br>
+  More info [here](https://github.com/salesforce/gsoc#cloudsplaining--salesforcecloudsplaining)
+
+## 49. Shaka Player
+
+- Generate Typescript Type Definitions (**JavaScript/TypeScript**)
+  <br>
+  GitHub Repo [here](https://github.com/google/shaka-player)
+
+- Shaka Player HLS Enhancements
+  <br>
+  GitHub Repo [here](https://github.com/google/shaka-player)
+
+  All projects [here](https://storage.googleapis.com/wvtemp/shaka/Shaka%20Player%20GSoC%20Projects%20List.pdf)
+
+## 50. JBoss Community (Code for Cause)
+
+- Classrooms and Doubt Forum Feature in Mobile Application (**React, Javascript**)
+  <br>
+  GitHub Repo [here](https://github.com/codeforcauseorg/edu-client)
+
+- Create and Enhance APIs related to Education Platform (**Javascript, NestJS**)
+  <br>
+  GitHub Repo [here](https://github.com/codeforcauseorg/edu-server)
