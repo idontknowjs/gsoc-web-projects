@@ -2,9 +2,15 @@
 
 <br>
 
-<p align="center">This is a list of some <b>Open Source organizations</b> participating in <b>GSoC</b> and having <b>Web</b> based projects specially for <br> <b>React</b>, React Native, <b>HTML, CSS, Vue and JavaScript</b> developers📝<p>
+<p align="center">List of Open Source organizations participating in <b>GSoC</b> having <b>Web Development</b> projects based on <br> <b>React</b>, <b>React Native</b>, <b>HTML</b>, <b>CSS</b>, <b>Vue</b> and <b>JavaScript</b>📝<p>
 
 <br>
+  
+**NOTE:** The sort/search functionality present on [GSoC website](https://summerofcode.withgoogle.com/organizations/) to filter projects is **broken**. It does not filter out all the projects. This list will help you find & compare projects as per your interest.
+  
+<br>
+  
+> Click :star: if you like the repo. Pull Requests are highly appreciated.
 
 ## Table of Contents
 
