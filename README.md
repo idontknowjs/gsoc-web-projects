@@ -568,7 +568,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
 
   All projects [here](https://storage.googleapis.com/wvtemp/shaka/Shaka%20Player%20GSoC%20Projects%20List.pdf)
 
-## 50. JBoss Community (Code for Cause)
+## 50. JBoss Community
 
 - Classrooms and Doubt Forum Feature in Mobile Application (**React, Javascript**)
   <br>
