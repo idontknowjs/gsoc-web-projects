@@ -6,11 +6,11 @@
 
 <br>
   
-**NOTE:** The sort/search functionality present on [GSoC website](https://summerofcode.withgoogle.com/organizations/) to filter projects is **broken**. It does not filter out all the projects. This list will help you find & compare projects as per your interest.
+**NOTE:** The search functionality on [GSoC website](https://summerofcode.withgoogle.com/) to filter web based projects is **broken**. It does not filter out all the projects but a few of them. This list will help you find & compare projects as per your interest.
   
 <br>
   
-> Click :star: if you like the repo. Pull Requests are highly appreciated.
+> Click :star: if you like the repo. Please note, this list has not been updated after GSoC 2021. Feel free to submit Pull Requests updating the list.
 
 ## Table of Contents
 
@@ -65,7 +65,7 @@
 |47.      | [Chromium](#47-chromium)|
 |48.      | [Salesforce](#48-salesforce)|
 |49.      | [Shaka Player](#49-shaka-player)|
-|50.      | [JBoss Community (Code for Cause)](#50-jboss-community-code-for-cause)|
+|50.      | [JBoss Community)](#50-jboss-community)|
 <br>
 
 ## 1. Processing Foundation
