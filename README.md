@@ -223,35 +223,35 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
 
 - OCR plugin (**JavaScript, Image processing**)
   <br>
-  Info [here](hhttps://joplinapp.org/gsoc2021/ideas/#1-ocr-plugin)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#1-ocr-plugin)
 
 - Template plugin (**JavaScript**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#2-template-plugin)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#2-template-plugin)
 
 - BibTex plugin (**JavaScript**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#3-bibtex-plugin)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#3-bibtex-plugin)
 
 - Real time collaboration on a note (**JavaScript**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#4-real-time-collaboration-on-a-note)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#4-real-time-collaboration-on-a-note)
 
 - Paste special (**JavaScript, HTML**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#5-paste-special)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#5-paste-special)
 
 - Plugin system on mobile (**JavaScript, React Native**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#6-plugin-system-on-mobile)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#6-plugin-system-on-mobile)
 
 - Conflict resolution editor plugin (**JavaScript, Markdown**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#7-conflict-resolution-editor-plugin)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#7-conflict-resolution-editor-plugin)
 
 - Kanban plugin (**JavaScript**)
   <br>
-  Info [here](https://joplinapp.org/gsoc2021/ideas/#8-kanban-plugin)
+  Info [here](https://github.com/laurent22/joplin/blob/dev/readme/dev/gsoc/gsoc2021/ideas.md#8-kanban-plugin)
 
 ## 13. Hydra Ecosystem
 
@@ -298,7 +298,7 @@ More Score Labs projects [here](https://scorelab.org/gsoc/)
 - Evolving fractalvalley.net (**React/Angular, JavaScript, HTML5, Node.js**)
 - Extend LibreCores.org (**SQL, HTML**)
   <br>
-  More info [here](https://www.fossi-foundation.org/gsoc20-ideas.html)
+  More info [here](https://www-archive.fossi-foundation.org/gsoc20-ideas)
 
 ## 18. GDevelop
 
